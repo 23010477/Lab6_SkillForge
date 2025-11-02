@@ -356,8 +356,8 @@
         <mxCell id="bAisiFVQRAk2pseiwGA6-156" value="*" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="960" y="1470" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bAisiFVQRAk2pseiwGA6-158" value="&lt;div&gt;A class diagram is a static UML diagram; it shows the system as classes, attributes and methods but does not show the movement of objects.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="219" y="2001" width="330" height="140" as="geometry" />
+        <mxCell id="bAisiFVQRAk2pseiwGA6-158" value="&lt;div&gt;A class diagram is a static UML diagram; it shows the system as classes, attributes and methods but does not show the movement of objects.&lt;br&gt;&lt;br&gt;Class diagrams show the structure and layout of a project before diving into the functionalities and the &#39;how&#39; of the methods and logic.&lt;/div&gt;&lt;div&gt;&lt;br&gt;They are essential for visualizing the architecture of the system and how parts of it relate to one another.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="1930" width="330" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
