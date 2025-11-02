@@ -24,6 +24,48 @@
         <mxCell id="bswN7uGMa1R9317PDdM3-5" value="check available courses" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;bpmnShapeType=call;align=center;" vertex="1" parent="1">
           <mxGeometry x="339" y="310" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="bswN7uGMa1R9317PDdM3-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bswN7uGMa1R9317PDdM3-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="450" as="sourcePoint" />
+            <mxPoint x="400" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bswN7uGMa1R9317PDdM3-9" value="select course" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;bpmnShapeType=call;align=center;" vertex="1" parent="1">
+          <mxGeometry x="339" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bswN7uGMa1R9317PDdM3-10" value="is course available" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="349" y="630" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bswN7uGMa1R9317PDdM3-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bswN7uGMa1R9317PDdM3-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="580" as="sourcePoint" />
+            <mxPoint x="399" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bswN7uGMa1R9317PDdM3-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bswN7uGMa1R9317PDdM3-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="710" as="sourcePoint" />
+            <mxPoint x="560" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bswN7uGMa1R9317PDdM3-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bswN7uGMa1R9317PDdM3-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="740" as="sourcePoint" />
+            <mxPoint x="271" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bswN7uGMa1R9317PDdM3-16" value="yes" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bswN7uGMa1R9317PDdM3-17" value="No" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="279" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
