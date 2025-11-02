@@ -1,0 +1,154 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="arzuixuYFFlGMoYRCg34">
+    <mxGraphModel dx="1228" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="luzaPToIWh1eCdfet1N1-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="681" as="sourcePoint" />
+            <mxPoint x="860" y="121" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="595" y="680" as="sourcePoint" />
+            <mxPoint x="595" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="344.71000000000004" y="680" as="sourcePoint" />
+            <mxPoint x="344.71000000000004" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="94.71000000000002" y="680" as="sourcePoint" />
+            <mxPoint x="94.71000000000002" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-2" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#FFFFFF,#007FFF);" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="10" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ui&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-7" value="CourseService" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="540" y="35" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-8" value="JsonDataBaseManager" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="790" y="35" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Enroll in course&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="luzaPToIWh1eCdfet1N1-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="100" y="190" as="sourcePoint" />
+            <mxPoint x="260" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#FFFFFF,#007FFF);" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="10" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#FFFFFF,#007FFF);" vertex="1" parent="1">
+          <mxGeometry x="590" y="120" width="10" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#FFFFFF,#007FFF);" vertex="1" parent="1">
+          <mxGeometry x="855" y="120" width="10" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;sendEnrollRequest&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;(courseID, studentID)&lt;/font&gt;&lt;/div&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.093;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="350" y="220" as="sourcePoint" />
+            <mxPoint x="590" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;checkCourseAvailability&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(courseID)&lt;/font&gt;&lt;/div&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0.173;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="luzaPToIWh1eCdfet1N1-12" target="luzaPToIWh1eCdfet1N1-13">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="610" y="250" as="sourcePoint" />
+            <mxPoint x="850" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;return course details&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(approved / available)&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="luzaPToIWh1eCdfet1N1-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="320" as="sourcePoint" />
+            <mxPoint x="780" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;saveEnrollment&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(studentID, courseID)&lt;/font&gt;&lt;/div&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0.173;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="605" y="360" as="sourcePoint" />
+            <mxPoint x="865" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;confirm enrollment success&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="420" as="sourcePoint" />
+            <mxPoint x="600" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;enrollmentResult&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(success message)&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="luzaPToIWh1eCdfet1N1-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="450" as="sourcePoint" />
+            <mxPoint x="330" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;display “Enrollment Successful”&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;message&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="480" as="sourcePoint" />
+            <mxPoint x="100" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-22" value="if course availabel" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=90;height=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="810" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="491" width="810" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;else&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="499" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;return false&amp;nbsp;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="865" y="540" as="sourcePoint" />
+            <mxPoint x="605" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="825" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;enrollmentResult&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(failure message)&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="560" as="sourcePoint" />
+            <mxPoint x="350" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luzaPToIWh1eCdfet1N1-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;display “Enrollment Failed”&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;message&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="600" as="sourcePoint" />
+            <mxPoint x="100" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
